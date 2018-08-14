@@ -1,0 +1,32 @@
+[
+  {
+    "Id":"1",
+    "Name": "Melek Pulatkonak",
+    "Title": "Founder & Curator",
+    "ImagePath": "https://turkishwin.com/media/widgetkit/melek-04d1e95919fef44f6bf3a5d95e727046.png",
+    "Description":"Melek is an entrepreneur and curator. She worked at Microsoft’s Global Startup Business Team and held the Developer and Platform Evangelism Lead position at Microsoft Turkey. Before that she was the President & COO of hakia, a semantic technology company in New York. Before joining hakia, she held various positions in Turkey and U.S. She holds an MBA from Columbia Business School and a B.Sc. degree from London School of Economics and Political Science. Melek is our Founder and Curator.",
+  },
+  {
+    "Id":"2",
+    "Name": "Elif Tukin Oygur",
+    "Title": "Managing Partner",
+    "ImagePath": "https://turkishwin.com/media/widgetkit/elif-1ea4be86f5dbcd1ca6578584137389ca.png",
+    "Description":"Elif is an investor, art lover and good-doer. She founded and ran an art and design studio. Prior to that, she worked in conference sector. Elif’s investment interests are in agriculture and real estate sectors. She has a BA in Sociology from Koç University and her M.A. in Marketing and Brand Management. Elif is our Executive Director responsible from program curation and membership programs (individual and corporate). She is a partner of BinYaprak.",
+  },
+  {
+    "Id":"3",
+    "Name": "Merve Konuralp",
+    "Title": "Membership Lead",
+    "ImagePath": "https://turkishwin.com/media/widgetkit/merve-konuralp-b903fba0be68286e7b077ed168264ff2.jpg",
+    "Description":"Merve is a enthusiastic world traveler, tennis player and lover of cats and dogs. Born and raised in Istanbul she lived in the Netherlands for 3 years. After dabbling in various advertising projects, Merve decided to use her creative energy to lead in our network for change. She has a a BS in Advertising from Bahçeşehir University. Merve is our Membership Lead.",
+  },
+  {
+    "Id":"4",
+    "Name": "Candeniz Önkol",
+    "Title": "Marketing Communications and Events Lead",
+    "ImagePath": "https://turkishwin.com/media/widgetkit/candeniz-f88a9d2b8a14782ec6368d7902c4d4ea.jpeg",
+    "Description":"Candeniz is a science enthusiast, basketball-player and a lover of tomatoes. He was born and bred in Istanbul and has a BS in Management Engineering from Istanbul Technical University. After serving as Country Director at AIESEC in Turkey and co-founded a Record Label, he returned to social entrepreneurship and joined TurkishWIN as Marketing Communications and Events Lead.",
+  },
+
+
+]
