@@ -4,7 +4,7 @@
   "job": "Developer",
   "company": "SuperSoft",
   "email": "kim.johnson@example.com",
-  "phone": "(450) 345-32-23",
+  "phone": "4503453223",
   "photo": "https://farm1.staticflickr.com/968/40824849085_194bf005c0_q.jpg",
   "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus mi volutpat, fringilla nisi id, rhoncus arcu. Morbi non velit eget sapien sollicitudin efficitur elementum vel magna. Quisque ut lacus vitae ligula volutpat consequat. Nulla aliquet lorem pharetra arcu dapibus aliquet. Proin eget lectus malesuada ipsum fermentum pellentesque ut quis velit. Cras auctor eu lacus ac eleifend. Duis nibh ligula, fermentum nec leo sit amet, faucibus tincidunt lectus.Your app fetched this from a remote endpoint!"
 }
